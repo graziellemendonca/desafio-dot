@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Output do Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Configurações e cache do Cypress
+.cypress-cache/
+Cypress/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
+
+# Pastas de build (se houver)
+dist/
+build/
